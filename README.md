@@ -1,2 +1,2 @@
-# gogreen
-A simple website on saving trees.
+# Website
+ A simple website on saving trees.
