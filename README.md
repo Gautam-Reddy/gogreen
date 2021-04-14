@@ -1,2 +1,1 @@
-gogreen
-A simple website on saving trees.
+A simple website on planting trees on one's behalf for a better future.
